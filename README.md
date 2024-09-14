@@ -51,6 +51,7 @@ of `lazy.lua` config file:
 ```lua
 { import = "lazyvim.plugins.extras.editor.harpoon2" }
 ```
+(see the [default configuration](https://github.com/Buer-Nahida/LazyVim/blob/1f5c005c030233438f049ec4de312b4e60184fda/lua/lazyvim/plugins/extras/editor/harpoon2.lua))
 
 ## ⇁ Getting Started
 
